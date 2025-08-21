@@ -61,7 +61,7 @@ From AI interviewers and outreach agents to website builders and social media in
 
 ---
 
-### 🔹 AI Website Builder (Ongoing)
+### 🔹 AI Website Builder
 
 - Currently building a platform that **automates the full website lifecycle**: ideation → design → development → deployment → hosting.
 - Unlike template-based builders, this system generates **unique, modern, and dynamic websites** with:
