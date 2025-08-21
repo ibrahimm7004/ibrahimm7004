@@ -43,7 +43,7 @@ From AI interviewers and outreach agents to website builders and social media in
 
 ## 🚀 Featured Projects
 
-### 🔹 [SorsX AI Interviewer + Candidate Sourcer for Hiring](<(https://www.sorsx.com/)>)
+### 🔹 [SorsX AI Interviewer + Candidate Sourcer for Hiring](https://www.sorsx.com/)
 
 - Built at **[Waditek](https://waditek.com/) (US recruiting company)**, where I worked full-time as an AI Developer.
 - **[AI Interviewer](https://github.com/ibrahimm7004/ai-interviewer)**: Automated 300+ hours of client interviews by developing an AI-powered interviewer using OpenAI Assistants API. Reduced interview times from 60 → 20 minutes, with adaptive questioning, real-time feedback, and automated evaluation reports.
