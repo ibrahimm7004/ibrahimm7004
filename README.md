@@ -1,6 +1,4 @@
-# Hi, I'm Ibrahim 👋
-
-**AI & Automation Developer | Data Scientist | Full-Stack Engineer**
+# 👋 **AI & Automation Developer | Data Scientist | Full-Stack Engineer**
 
 I build **AI-powered automation systems** that replace complex workflows end-to-end.  
 From AI interviewers and outreach agents to website builders and social media intelligence tools, I focus on creating **real, production-ready platforms** that actually ship and scale — not just academic demos.
