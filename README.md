@@ -43,18 +43,18 @@ From AI interviewers and outreach agents to website builders and social media in
 
 ## 🚀 Featured Projects
 
-### 🔹 SorsX: AI Interviewer + Candidate Sourcer for Hiring
+### 🔹 [SorsX](https://www.sorsx.com/): AI Interviewer + Candidate Sourcer for Hiring
 
-- Built at **Waditek (US recruiting company)**, where I worked full-time as an AI Developer.
-- **AI Interviewer**: Automated 300+ hours of client interviews by developing an AI-powered interviewer using OpenAI Assistants API. Reduced interview times from 60 → 20 minutes, with adaptive questioning, real-time feedback, and automated evaluation reports.
-- **Candidate Sourcer**: Engineered a sourcing pipeline that filtered LinkedIn profiles from a **200M+ dataset**, applied a tree-based scoring algorithm, and added an AI-powered analyzer to cut candidate selection time down to **5 minutes**.
+- Built at **[Waditek](https://waditek.com/) (US recruiting company)**, where I worked full-time as an AI Developer.
+- **[AI Interviewer](https://github.com/ibrahimm7004/ai-interviewer)**: Automated 300+ hours of client interviews by developing an AI-powered interviewer using OpenAI Assistants API. Reduced interview times from 60 → 20 minutes, with adaptive questioning, real-time feedback, and automated evaluation reports.
+- **[Candidate Sourcer](https://github.com/ibrahimm7004/python-projects/tree/master/linkedin-candidate-sourcer)**: Engineered a sourcing pipeline that filtered LinkedIn profiles from a **200M+ dataset**, applied a tree-based scoring algorithm, and added an AI-powered analyzer to cut candidate selection time down to **5 minutes**.
 - **Stack:** Python (Flask, FastAPI), OpenAI API, PostgreSQL, AWS deployment.
 
 ---
 
-### 🔹 Outreach Automation AI
+### 🔹 [Outreach Automation AI](https://github.com/ibrahimm7004/Outreach-Automation-AI)
 
-- Fully automated lead sourcing + outreach workflow for a **Dubai-based marketing agency**.
+- Fully automated lead sourcing + outreach workflow for a [Dubai-based marketing agency](https://leadsup.solutions/).
 - Designed **advanced Selenium crawlers** with smart proxy rotation for large-scale domain scraping, integrated OpenAI-powered assistants for **real-time web search** and **API-based utility functions**, and streamlined entire outreach flow end-to-end.
 - Eliminated the need for manual prospecting and reduced overhead costs drastically by enabling the system to handle **hundreds of thousands of websites** autonomously.
 - **Stack:** Python (Flask, FastAPI, Selenium), OpenAI API.
