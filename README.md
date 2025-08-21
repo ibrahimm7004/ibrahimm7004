@@ -5,12 +5,40 @@ From AI interviewers and outreach agents to website builders and social media in
 
 ---
 
-## 🔧 Technical Skills
+## 🛠️ Technical Skills
 
-- **Languages:** Python (pandas, NLTK, NumPy, TensorFlow), SQL, JavaScript, C/C++
-- **Frameworks/Technologies:** Flask, FastAPI, AWS, Heroku, Docker, React
-- **AI/ML Expertise:** OpenAI API, NLP, Transformers, Stable Diffusion, LangChain
-- **Other:** Git, SQLAlchemy, Selenium, Data Visualization
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frameworks / Technologies
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### AI / ML Expertise
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFB000?style=for-the-badge&logo=huggingface&logoColor=black)
+![Stable Diffusion](https://img.shields.io/badge/Stable--Diffusion-FF4B4B?style=for-the-badge&logo=artstation&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+
+### Other
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=databricks&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ---
 
@@ -30,7 +58,7 @@ From AI interviewers and outreach agents to website builders and social media in
 - Fully automated lead sourcing + outreach workflow for a **Dubai-based marketing agency**.
 - Designed **advanced Selenium crawlers** with smart proxy rotation for large-scale domain scraping, integrated OpenAI-powered assistants for **real-time web search** and **API-based utility functions**, and streamlined entire outreach flow end-to-end.
 - Eliminated the need for manual prospecting and reduced overhead costs drastically by enabling the system to handle **hundreds of thousands of websites** autonomously.
-- **Stack:** Python, Selenium, Flask, FastAPI, OpenAI API, Redis.
+- **Stack:** Python (Flask, FastAPI, Selenium), OpenAI API.
 
 ---
 
@@ -40,15 +68,8 @@ From AI interviewers and outreach agents to website builders and social media in
 - Unlike template-based builders, this system generates **unique, modern, and dynamic websites** with:
   - Brand-aligned designs (color palettes, tone, CTAs).
   - Section reordering & customization (features, pricing, FAQ).
-  - Automatic generation of `index.html`, `styles.css`, and `script.js`.
-- **Stack:** FastAPI backend (OpenAI `gpt-5-mini`), React (Vite + TypeScript) frontend with shadcn/ui + Tailwind v3, file output management.
-
----
-
-## 📊 GitHub Stats
-
-![Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahimm7004&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimm7004&layout=compact&theme=radical)
+  - One-click generation of a fully functional website..
+- **Stack:** FastAPI backend, React (Vite + TypeScript) frontend with shadcn/ui + Tailwind v3, file output management.
 
 ---
 
