@@ -7,10 +7,10 @@ From AI interviewers and outreach agents to website builders and social media in
 
 ## 🔧 Technical Skills
 
-- **Languages:** Python (pandas, NLTK, NumPy, TensorFlow), SQL, C/C++, JavaScript, R
-- **Frameworks/Technologies:** Flask, FastAPI, React, Next.js, AWS, GCP, Heroku, Docker, Spark, Tableau, Power BI
-- **AI/ML Expertise:** OpenAI API, LangChain, NLP, Transformers, XGBoost, DistilRoBERTa, Stable Diffusion, LoRA fine-tuning
-- **Other:** Git, SQLAlchemy, Selenium (with proxy rotation), Data Visualization
+- **Languages:** Python (pandas, NLTK, NumPy, TensorFlow), SQL, JavaScript, C/C++
+- **Frameworks/Technologies:** Flask, FastAPI, AWS, Heroku, Docker, React
+- **AI/ML Expertise:** OpenAI API, NLP, Transformers, Stable Diffusion, LangChain
+- **Other:** Git, SQLAlchemy, Selenium, Data Visualization
 
 ---
 
@@ -56,4 +56,3 @@ From AI interviewers and outreach agents to website builders and social media in
 
 - **Email:** [ibrahim.m7004@gmail.com](mailto:ibrahim.m7004@gmail.com)
 - **LinkedIn:** [linkedin.com/in/ibrahim-zm](https://www.linkedin.com/in/ibrahim-zm/)
-- **GitHub:** [github.com/ibrahimm7004](https://github.com/ibrahimm7004)
