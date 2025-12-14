@@ -1,11 +1,11 @@
-# 👋 Full-Stack AI Developer | Machine Learning Engineer
+# Full-Stack AI Developer | Machine Learning Engineer
 
 I build **AI-powered automation systems** that replace complex workflows end-to-end.  
 From AI interviewers and outreach agents to website builders and social media intelligence tools, I focus on creating **real, production-ready platforms** that actually ship and scale.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Languages
 
@@ -45,7 +45,7 @@ From AI interviewers and outreach agents to website builders and social media in
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🔹 [SorsX AI Interviewer + Candidate Sourcer for Hiring](https://www.sorsx.com/)
 
